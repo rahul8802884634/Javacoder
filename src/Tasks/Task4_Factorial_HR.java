@@ -2,7 +2,7 @@ package Tasks;
 
 import java.util.Scanner;
 
-public class Task4_Factorial_HR {
+public class git add src/Tasks/Task4_Factorial_HR.java {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
