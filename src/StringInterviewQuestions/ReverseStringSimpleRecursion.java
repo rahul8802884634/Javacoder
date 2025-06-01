@@ -1,3 +1,4 @@
+package StringInterviewQuestions;
 public class ReverseStringSimpleRecursion {
     public static void main(String[] args) {
         String str = "Rahul";
