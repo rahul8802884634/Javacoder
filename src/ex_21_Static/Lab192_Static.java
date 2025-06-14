@@ -18,7 +18,7 @@ public class Lab192_Static {
 
 class Student{
 
-    int age; // Non Static or Instance Variable , Attribute,
+    int age; // Non-Static or Instance Variable , Attribute,
     static String course_name = "ATB";
 
     public Student(int age_c){
